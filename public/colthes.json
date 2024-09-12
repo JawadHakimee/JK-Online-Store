@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Men's Suit",
+        "Price": "Price:",
+        "price": 350,
+        "image": "https://i.pinimg.com/736x/85/1b/82/851b827adef668d49fb7aaa5837c423d.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Men's Suit",
+        "Price": "Price:",
+        "price": 270,
+        "image": "https://donoghte.com/wp-content/uploads/2019/01/067b977684f19afc5baa44d1e2d5116c-donoghte.com_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Men's Suit",
+        "Price": "Price:",
+        "price": 220,
+        "image": "https://donoghte.com/wp-content/uploads/2019/01/78662744640e9c20694bb9fbdbc70a45-donoghte.com_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Men's Backpack",
+        "Price": "Price:",
+        "price": 120,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQueZca7X2MybJR29y-M3CCkx_1A_-hnFrTBA&s"
+    },
+    {
+        "id": 5,
+        "name": "Women's Afghani Suit",
+        "Price": "Price:",
+        "price": 700,
+        "image": "https://www.jowhareh.com/images/Jowhareh/galleries_9/large_e284c0e9-12f4-4231-b380-cd41f4c58f7d.webp"
+    },
+    {
+        "id": 6,
+        "name": "Women's Suit",
+        "Price": "Price:",
+        "price": 150,
+        "image": "https://www.beytoote.com/images/stories/mode/mo17532.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Women's Suit",
+        "Price": "Price:",
+        "price": 220,
+        "image": "https://down-my.img.susercontent.com/file/6485538686f10524f9217bd27f9d8c99"
+    },
+    {
+        "id": 8,
+        "name": "Women's Backpack",
+        "Price": "Price:",
+        "price": 90,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy67jx9nV7fr9XJyl26KKlvDJcOD8jx_OaVTdCQvd6koE_E9MamGhF6TI9mpuARMDwPlU&usqp=CAU"
+    }
+]

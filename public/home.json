@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "name":"Home 1",
+        "Price":"Price:",
+        "price":29000,
+        "image": "https://photos.zillowstatic.com/fp/15c9c699e3b94e939c2e993662f6c817-cc_ft_960.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"Home 2",
+        "Price":"Price:",
+        "price":24000,
+        "image":"https://cdn.listingphotos.sierrastatic.com/pics2x/v1693539216/47/47_6426162_02.jpg" 
+    },
+    {
+        "id":3,
+        "name":"Home 3",
+        "Price":"Price:",
+        "price":20000,
+        "image":"https://images.homes.com/listings/215/0448142983-056653181/17112-134th-avenue-ct-e-graham-wa-primaryphoto.jpg"
+    },
+    {
+        "id":4,
+        "name":"Home 4",
+        "Price":"Price:",
+        "price":23000,
+        "image": "https://d36xftgacqn2p.cloudfront.net/listingphotos153/24027012-5.jpg"
+
+    },
+    {
+        "id":5,
+        "name":"Home 5",
+        "Price":"Price:",
+        "price":42000,
+        "image":"https://d1ja9tyo8nbkbc.cloudfront.net/51411227_S0426/S0426/S0426-R0100/609753652/609753652-1.jpg?version=1719608540&width=640" 
+    },
+    {
+        "id":6,
+        "name":"Home 6",
+        "Price":"Price:",
+        "price":46000,
+        "image":"https://ap.rdcpix.com/7f3938d6700c22d28bd555a2052444efl-b2055522104od-w480_h360.jpg"
+    }
+    ,
+    {
+        "id":7,
+        "name":"Home 7",
+        "Price":"Price:",
+        "price":39000,
+        "image": "https://photos.zillowstatic.com/fp/d87bde627bcec6502cdcd5207a6aca53-p_e.jpg"
+
+    },
+    {
+        "id":8,
+        "name":"Home 8",
+        "Price":"Price:",
+        "price":27000,
+        "image":"https://images.homes.com/listings/215/0448142983-056653181/17112-134th-avenue-ct-e-graham-wa-primaryphoto.jpg" 
+    },
+    {
+        "id":9,
+        "name":"Home 9",
+        "Price":"Price:",
+        "price":21000,
+        "image":"https://photos.zillowstatic.com/fp/c82077a8f03713e57737eee888d034ee-p_e.jpg"
+    }
+]

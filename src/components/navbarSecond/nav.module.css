@@ -1,0 +1,80 @@
+.Navbar {
+    width: 100%;
+    max-width: 620px;
+    height: auto;
+}
+
+.NavbarImage {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/029/784/032/non_2x/big-country-house-with-pool-and-palm-trees-around-on-a-sunset-background-real-estate-concept-photo.jpg');
+    width: 740px;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbarNav {
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    backdrop-filter: blur(20px);
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.navbarNav li {
+    list-style: none;
+}
+
+.navbarNav li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: transform 0.3s, color 0.3s, box-shadow 0.3s;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+.navbarNav li a:hover {
+    color: #00bfff;
+    transform: scale(1.1);
+    box-shadow: 0 4px 10px rgba(0, 191, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+@media (max-width: 900px) {
+    .navbarNav {
+        justify-content: center;
+        padding: 15px;
+    }
+
+    .navbarNav li a {
+        font-size: 14px;
+        padding: 6px 12px;
+    }
+}
+
+@media (max-width: 600px) {
+    .navbarNav {
+        align-items: center;
+    }
+
+    .navbarNav li a {
+        font-size: 10px;
+        padding: 10px 16px;
+        margin: 5px 0;
+    }
+}
+
+@media (max-width: 900px) {
+    .NavbarImage {
+        width: 360px;
+        height: 500px;
+    }
+}
+
+@media (max-width: 600px) {
+    .NavbarImage {
+        height: 300px;
+        width: 360px;
+    }
+}
