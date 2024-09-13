@@ -67,7 +67,7 @@
 
 @media (max-width: 900px) {
     .NavbarImage {
-        width: 360px;
+        width: 100%;
         height: 500px;
     }
 }
@@ -75,6 +75,6 @@
 @media (max-width: 600px) {
     .NavbarImage {
         height: 300px;
-        width: 360px;
+        /* width: 360px; */
     }
 }
